@@ -1,9 +1,9 @@
 # TicketService
-========
+==
 Coding challenge for a ticketing service
 
 ## Commands
-========
+==
 To build the JAR:
 ```
 $ ./gradlew jar
@@ -15,7 +15,7 @@ $ ./gradlew test
 ```
 
 ## Assumptions
-========
+==
 * The supported seating chart of a venue is M rows with each
   row having N seats.
 * The algorithm to determine the best available seats is
